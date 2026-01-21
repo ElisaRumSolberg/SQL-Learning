@@ -1,0 +1,16 @@
+insert into school.ANSATT0 values
+(1,'Veum','Varg','1996-01-01','Løpegutt',383000),
+(2,'Stein','Trude','2004-10-19','DBA',470700),
+(3,'Dudal','Inger-Lise','2012-12-24','Sekretær',490000),
+(4,'Hansen','Hans','2010-08-23','Programmerer',525000),
+(5,'Bjørnsen','Henrik','2014-01-01','Tekstforfatter',5,5000),
+(6,'Gredelin','Sofie','2012-05-18','Underdirektør',825850),
+(7,'Zimmermann','Robert','1999-05-17','Regnskapsfører',575000),
+(8,'Nilsen','Lise','2016-04-03','Direktør',875340),
+(11,'Fosheim','Katinka','2015-09-13','Selger',620000),
+(13,'Lovløs','Ada','2009-08-12','Programmerer',584250),
+(16,'Ibsen','Bjørnstjerne','2012-01-02','Tekstforfatter',546000),
+(17,'Fleksnes','Marve','2013-05-17','Lagerleder',520120),
+(20,'Felgen','Reodor','2005-12-12','Sykkelreperatør',479500),
+(23,'Karius','Jens','2015-12-13','Salgssekretær',480390),
+(29,'Wirkola','Gabriel','2018-04-21','Sekretær',455000);
